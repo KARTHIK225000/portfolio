@@ -50,7 +50,7 @@ I’m on a **mission to penetrate, identify, and patch vulnerabilities** to make
 *When I’m deep into penetration testing* 😎
 
 
-![Penetration Testing GIF](https://media.giphy.com/media/MaHrgxlveq1yMVlr24/giphy.gif?cid=ecf05e470kyudmo2d1mcpgpa9tr37621iy55fydnz1riqc0t&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+![Penetration Testing GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVzeDBycjVleXFpcHF0ZDE5a3BqaWcxYjAwdDJmZGdrZzJ5NGpjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5z3RB3GoDrQpnJJR1D/giphy.gif) 
 
 *When I find the vulnerability I’ve been looking for!* 💥
 
