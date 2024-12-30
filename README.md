@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet! I'm passionate about cybersecurity, with 4+ years of experience in Penetration Testing.
 
-<img src="https://media.giphy.com/media/dV3GXudtLAbTi/giphy.gif?cid=ecf05e479ja9m0c30rr6h37c6bbwf8ivnfntcy9stkuhznxx&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img src="[https://media.giphy.com/media/dV3GXudtLAbTi/giphy.gif?cid=ecf05e479ja9m0c30rr6h37c6bbwf8ivnfntcy9stkuhznxx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVzeDBycjVleXFpcHF0ZDE5a3BqaWcxYjAwdDJmZGdrZzJ5NGpjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)"/>
 
 ---
 
