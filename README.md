@@ -65,8 +65,7 @@ I believe in the power of **continuous learning**, and I’m always experimentin
 ### 📫 **Connect with me**  
 Feel free to reach out if you want to collaborate, discuss security, or just talk about the latest exploits. I'm always open to networking!
 
-**Email** - 0xarshadu@gmail.com
-
+**Email** - karthik09225@gmail.com
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" width="15"/> 
