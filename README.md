@@ -67,13 +67,13 @@ Feel free to reach out if you want to collaborate, discuss security, or just tal
 
 **Email** - 0xarshadu@gmail.com
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/> **Linkedin** - https://www.linkedin.com/in/arshad-u-7a7045207
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" width="15"/> **Twitter(X)** - https://x.com/0xarshad
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" width="15"/> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="15"/> **Instagram** - https://www.instagram.com/0xarshad
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="15"/> 
 
-<img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="18"/> **Youtube** - https://www.youtube.com/channel/UCh9vFUbbnVphQuT31U4BYKA
+<img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="18"/> 
 
 ---
 
